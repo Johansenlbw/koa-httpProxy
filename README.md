@@ -7,3 +7,5 @@
 * 1. 首先目前的http-proxy-middleware是基于Node.js的代理中间件，适用于connect ,express, browser-sync and many more.
 * 2. koa要使用http-proxy-middleware，必需使用koa-connect将其转化,转化成koa可以使用的中间件。
 * 3. koa-connect 
+
+实例参照这个工程代码
